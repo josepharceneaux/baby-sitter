@@ -12,3 +12,7 @@ class Sitter:
         """
         Constructor for Sitter class
         """
+
+        self.start_time = start_time
+        self.hours_worked = hours_worked
+        self.family = family
