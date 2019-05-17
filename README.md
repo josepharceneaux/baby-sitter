@@ -57,3 +57,5 @@ Babysitter starts at: 17:00 and finishes at: 23:00
 Sitter payment: $90
 josepharceneaux@macbook-pro$ 
 ```
+
+Where *17* is the start time and *23* is the end time of the sitter.
