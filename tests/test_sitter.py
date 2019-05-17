@@ -37,6 +37,7 @@ class TestBabySitter(unittest.TestCase):
         Test correct creation of sitter object
         """
         self.assertTrue(self.sitter.start_time == self.sitter_start_time)
+        self.assertTrue(self.sitter.default_rate == self.family.default_rate)
 
     def test_convert_to_european(self):
         """
